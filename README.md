@@ -27,3 +27,7 @@ Subjects Covered:
 
 #### Project 3 : Data Wrangle and Analyze with Tweet WeRateDogs data
 #### Project 4 : Data Wrangle and Analyze with Tweet WeRateDogs data
+
+|Sum||Total|
+|____||______|
+|45||65|
