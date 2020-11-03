@@ -1,5 +1,7 @@
-## Data Analytics Projects:
+# Data Analytics Projects:
 
+
+## Part one - введение
 
 #### Project 1 : Analyze A/B Test Results with company ab_data.csv
 Subjects Covered:
@@ -19,5 +21,8 @@ Subjects Covered:
 
 
 #### Project 2 : Data Wrangle and Analyze with Tweet WeRateDogs data
+
+## Part two - всякая херня
+
 #### Project 3 : Data Wrangle and Analyze with Tweet WeRateDogs data
 #### Project 4 : Data Wrangle and Analyze with Tweet WeRateDogs data
