@@ -16,9 +16,7 @@
 
 ### Навыки и инструменты:
 
-- Python
-- Pandas
-- Matplotlib
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Math)
 - Когортный анализ
 - Юнит-экономика
 - Продуктовые метрики
