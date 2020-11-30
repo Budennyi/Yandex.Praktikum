@@ -13,9 +13,6 @@
 ### Навыки и инструменты:
 
 - SQL
-- Python
-- Pandas
-- Matplotlib
-- SciPy
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Math)
 - Проверка статистических гипотез
 - Добавление внешних источников данных
