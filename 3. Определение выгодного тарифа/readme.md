@@ -14,10 +14,6 @@
 
 ### Навыки и инструменты:
 
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- SciPy
+- Python (Pandas, Matplotlib, NumPy, SciPy, Math, Seaborn)
 - Описательная статистика
 - Проверка статистических гипотез
