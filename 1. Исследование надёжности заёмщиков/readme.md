@@ -15,7 +15,6 @@
 ### Навыки и инструменты:
 
 - Предобработка данных
-- Python
-- Pandas
-- PyMystem3
+- Python (Pandas, PyMystem3, Collections)
 - Лемматизация
+- Построение гистограмм
