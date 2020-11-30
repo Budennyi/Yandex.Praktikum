@@ -17,11 +17,7 @@
 
 ### Навыки и инструменты:
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- SciPy
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Math, Stats)
 - A/B-тестирование
 - проверка статистических гипотез
 
