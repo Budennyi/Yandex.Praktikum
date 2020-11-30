@@ -16,11 +16,7 @@
 ### Навыки и инструменты:
 
 - A/B-тестирование
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Plotly)
 - Событийная аналитика
 - Продуктовые метрики
 - Проверка статистических гипотез
