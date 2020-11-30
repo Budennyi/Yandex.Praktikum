@@ -14,6 +14,7 @@
 
 ### Навыки и инструменты:
 
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, SKlearn)
 - Machine Learning
 - KMeans
 - RandomForestClassifier
