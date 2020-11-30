@@ -18,10 +18,7 @@
 
 ### Навыки и инструменты:
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Math)
 - Предобработка данных
 - Исследовательский анализ данных
 - Описательная статистика
