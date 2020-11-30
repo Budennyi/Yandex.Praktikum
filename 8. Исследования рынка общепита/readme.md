@@ -12,10 +12,7 @@
 
 ### Навыки и инструменты:
 
-- Python
-- Pandas
-- Seaborn
-- Plotly
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, Chart Studio)
 - Визуализация данных
 - Интерактивные графики
 - Доабвление внешних источников данных
