@@ -16,9 +16,8 @@
 
 ### Навыки и инструменты:
 
-- Python
-- Pandas
-- Matplotlib
+- Python (Pandas, Matplotlib, Numpy, Seaborn, Pymystem3)
 - Исследовательский анализ данных
 - Визуализация данных
 - Предобработка данных
+- Лемматизация
